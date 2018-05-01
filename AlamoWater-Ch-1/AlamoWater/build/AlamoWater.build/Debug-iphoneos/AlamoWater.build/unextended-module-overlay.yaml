@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/iosteam/Library/Developer/Xcode/DerivedData/AlamoWater-azvuanfwiuufsgdvtxkslokqebqn/Build/Products/Debug-iphoneos/AlamoWater.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/iosteam/Downloads/AlamoWater-Ch-1/AlamoWater/build/AlamoWater.build/Debug-iphoneos/AlamoWater.build/unextended-module.modulemap',
+    }]
+  }]
+}
